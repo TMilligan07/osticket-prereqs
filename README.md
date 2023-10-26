@@ -34,8 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<imgIMG-5680.jpg
-  alt="Disk Sanitization Steps"/>
+<img IMG-5680.jpg  alt="Disk Sanitization Steps"/>
 </p>
 <p>
 1.The first installation step I did was create a virtual machine by signing into my microsoft azure account, located at www.portal.azure.com

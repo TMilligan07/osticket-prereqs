@@ -42,7 +42,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img ![Uploading IMG-5680.jpg…]()
+<img IMG-5680.jpg
 
 />
 </p>

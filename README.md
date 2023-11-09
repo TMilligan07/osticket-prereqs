@@ -40,9 +40,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1.The first installation step I did was create a virtual machine by signing into my microsoft azure account, located at www.portal.azure.com
 </p>
 <br />
+![IMG-5680](https://github.com/TMilligan07/osticket-prereqs/assets/148301903/595d15e6-fcfd-482e-853c-cd314de089fe)
 
 <p>
-<img IMG-5680.jpg
+
 
 />
 </p>
